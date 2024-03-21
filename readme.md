@@ -9,3 +9,6 @@ MI CONTENIDO
 Hacer el cierre de la presentacion , invitando a contactarse
 
 ## IDIOMA
+
+- SPANISH
+- PORTUGUESE
